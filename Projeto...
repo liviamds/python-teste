@@ -1,0 +1,7 @@
+codigo = input('Codigo do produto: ')
+produto = input('Digite o produto: ')
+quantidade = input('Quantidade do produto: ')
+
+print('Codigo:', codigo)
+print('Produto:', produto)
+print('Quantidade:', quantidade) 
