@@ -1,0 +1,4 @@
+num1 = input('digite 1 numero ' ) #entrada de dados
+num2 = input('digite outro numero ') #entrada de dados
+soma = int(num1) + int(num2) #operação (converter para int)
+print(str(soma)) #mostra resuldado (inverter para string)
