@@ -1,0 +1,5 @@
+dia = input('qual o dia? ')
+mes = input('qual o mes? ')
+ano = input('qual o mes? ')
+
+print(dia,'/', mes, '/', ano)
