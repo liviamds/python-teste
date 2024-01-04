@@ -1,0 +1,7 @@
+pessoas = []
+
+nome = input('digite nome: ')
+idade = input('digite idade: ')
+pessoas.append(nome)
+pessoas.append(idade)
+print(pessoas)
